@@ -1,0 +1,11 @@
+name: Creepercraft
+author: fdd2001
+version: 1.0
+main: me.fdd2001.Tobi.Main
+commands:
+    bossbar:
+        description: Sets the bossbar until the players relog.
+        usage: /<command> <message>
+    reloadbossbar:
+        description: Reloads the bossbar to its original state.
+        usage: /<command>
